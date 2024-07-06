@@ -1,0 +1,28 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+          "username": "Ocarco",
+          "email": "ocarco86@example.com",
+          "password": "pbkdf2_sha256$260000$JdVc3RQOiKv7$ur3Q7dT0qaxP4KJxKdf0qM8SzPP0IG7DJWbXVeDVoV8=",
+          "is_staff": false,
+          "is_active": true,
+          "is_superuser": false,
+          "date_joined": "2024-07-05T10:00:00Z"
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+          "username": "Yosani",
+          "email": "yosnai@gmail.com",
+          "password": "pbkdf2_sha256$260000$JdVc3RQOiKv7$ur3Q7dT0qaxP4KJxKdf0qM8SzPP0IG7DJWbXVeDVoV8=",
+          "is_staff": false,
+          "is_active": true,
+          "is_superuser": false,
+          "date_joined": "2024-07-05T10:00:00Z"
+        }
+      }
+]

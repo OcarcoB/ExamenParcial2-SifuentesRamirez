@@ -1,0 +1,79 @@
+[
+    {
+      "model": "todo.todo",
+      "pk": 1,
+      "fields": {
+        "title": "Terminar DLC Elden Ring",
+        "description": "Terminar la expansión de Elden Ring antes del fin de semana.",
+        "due_date": "2024-07-10",
+        "is_completed": true,
+        "user": 1
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 2,
+      "fields": {
+        "title": "Comprar suministro lunes de cocina",
+        "description": "Asegurarse de tener todos los ingredientes necesarios para la semana.",
+        "due_date": "2024-07-09",
+        "is_completed": true,
+        "user": 2
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 3,
+      "fields": {
+        "title": "Comprar mandado",
+        "description": "Ir al supermercado y comprar la lista de mandado.",
+        "due_date": "2024-07-06",
+        "is_completed": false,
+        "user": 1
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 4,
+      "fields": {
+        "title": "Avance de proyecto",
+        "description": "Trabajar en la presentación del proyecto para el cliente.",
+        "due_date": "2024-07-15",
+        "is_completed": false,
+        "user": 1
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 5,
+      "fields": {
+        "title": "Deadpool vs Wolverine",
+        "description": "Leer el cómic de Deadpool vs Wolverine para el club de lectura.",
+        "due_date": "2024-07-08",
+        "is_completed": false,
+        "user": 2
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 6,
+      "fields": {
+        "title": "Hacer lo de ingles",
+        "description": "Estudiar para el examen de inglés el próximo lunes.",
+        "due_date": "2024-07-12",
+        "is_completed": false,
+        "user": 1
+      }
+    },
+    {
+      "model": "todo.todo",
+      "pk": 7,
+      "fields": {
+        "title": "Comida suegros",
+        "description": "Preparar la comida para la visita de los suegros este fin de semana.",
+        "due_date": "2024-07-11",
+        "is_completed": true,
+        "user": 2
+      }
+    }
+]

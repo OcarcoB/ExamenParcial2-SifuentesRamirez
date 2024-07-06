@@ -1,0 +1,5 @@
+py manage.py loaddata todos.json
+py manage.py loaddata users.json
+
+
+para cargar los datos de fixtures a la base de datos
